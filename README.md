@@ -18,7 +18,7 @@ Other Tools:  WebSockets, Peer-to-Peer Technologies
 
 🔥 Current Focus
 
-🌱 Learning Cloud Computing & Deployment
+🌱 Learning Cloud Computing , Deployment ,Artificial Intelligence and Machine Learning 
 
 📚 Expanding knowledge in Advanced AI/ML Integration
 
@@ -32,6 +32,8 @@ Other Tools:  WebSockets, Peer-to-Peer Technologies
 GitHub: utkarsh-246
 
 LinkedIn: https://www.linkedin.com/in/utkarsh-kushwaha-662679315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+unstop:  https://unstop.com/u/utkarsh_246
 
 Email: utkarshkushwaha246@gmail.com
 
