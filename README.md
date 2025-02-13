@@ -1,41 +1,49 @@
-Hi, I'm Utkarsh Kushwaha! 👋
+### Hey there! I'm Utkarsh Kushwaha 👋
 
-🚀 Aspiring Full-Stack Developer | AI/ML Enthusiast | Tech Explorer
+🚀 *Tech Enthusiast | Developer | Innovator | AI/ML Engineer *  
+💡 *Passionate about Algorithms, AI/ML, and Tech Communities*  
+🎯 *Always building, always learning, *
 
-🛠 Tech Stack & Skills
+---
 
-Backend Development: Python (Django), Node.js
+### 🚀 Projects
+ 
+🔹 *[AlgoVisualizer](https://github.com/utkarsh-246/algovisualizer)* — Making algorithms come to life through visualization.  
 
-Frontend Development: HTML, CSS, JavaScript 
+---
 
-Databases: SQL
+### 🏆 Leadership & Hackathons
 
-AI/ML: Python
+👑 *Backend Manager of Team Vasiliades* — 1st Runner up at *Genethon 2024*.  
 
-Version Control: Git, GitHub
+---
 
-Other Tools:  WebSockets, Peer-to-Peer Technologies
+### 🔥 Tech Stack & Skills
 
-🔥 Current Focus
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-🌱 Learning Cloud Computing , Deployment ,Artificial Intelligence and Machine Learning 
 
-📚 Expanding knowledge in Advanced AI/ML Integration
+🛠 *Other Tools:* Git, VS Code, Figma, Firebase, Node.js, Selenium, Web Scraping, Django, Websockets, API
 
-📌 Projects
+---
 
-🔹 AlgoVisualizer – A platform to visualize DSA concepts like selection & bubble sort.
-🔹 Django Web Chat – A real-time chat application using Django & WebSockets.
+### 📊 GitHub Stats
 
-📬 Connect With Me
+![Utkarsh Kushwaha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=utkarsh-246&show_icons=true&theme=radical)
 
-GitHub: utkarsh-246
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-246&layout=compact&theme=radical)
 
-LinkedIn: https://www.linkedin.com/in/utkarsh-kushwaha-662679315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+---
 
-unstop:  https://unstop.com/u/utkarsh_246
+### 📫 Let's Connect
 
-Email: utkarshkushwaha246@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/utkarsh-kushwaha-662679315/))  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]((https://x.com/utkarshk246))  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)  
 
-🚀 Always open to collaborations and new opportunities!
-
+🚀 Always open to collaboration and exciting ideas!
