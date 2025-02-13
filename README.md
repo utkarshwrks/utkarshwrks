@@ -8,7 +8,7 @@
 
 ### 🚀 Projects
  
-🔹 *[AlgoVisualizer](https://github.com/utkarsh-246/algovisualizer)* — Making algorithms come to life through visualization.  
+🔹 *[AlgoVisualizer](https://github.com/team-vasiliades/algovisualizer)* — Making algorithms come to life through visualization.  
 
 ---
 
