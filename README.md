@@ -1,4 +1,4 @@
-<h1 align="center">🙏 Namaste! I'm Utkarsh (<i>Ut-code-crush</i>) Kushwaha 👋</h1>
+<h1 align="center"> Namaste! I'm Utkarsh (<i>Ut-code-crush</i>) Kushwaha 👋</h1>
 
 ---
 
@@ -14,11 +14,11 @@
 ## 🚀 Projects
 
 - 🔹 [**AlgoVisualizer**](https://github.com/team-vasiliades/algovisualizer) — Making algorithms come to life through visualization.
-- 🔹 [**Votex**](https://github.com/utkarsh-246/votex) — Secure online voting system with authentication and dynamic elections.
-- 🔹 [**SkillSync**](https://github.com/utkarsh-246/skillsync) — AI-powered platform for resumes, job suggestions & HR chat.
-- 🔹 [**ArtMart**](https://github.com/utkarsh-246/artmart) — Marketplace for artists to showcase & sell artwork with P2P & AI insights.
-- 🔹 [**Water Quality Prediction AI/ML**](https://github.com/utkarsh-246/water-quality-prediction) — ML model predicting water quality.
-- 🔹 [**Netflix Clone**](https://github.com/utkarsh-246/netflix-clone) — Beautiful Netflix UI replica with auth & data.
+- 🔹 [**Votex**](https://github.com/utkarshwrks/votex) — Secure online voting system with authentication and dynamic elections.
+- 🔹 [**SkillSync**](https://github.com/utkarshwrks/skillsync) — AI-powered platform for resumes, job suggestions & HR chat.
+- 🔹 [**ArtMart**](https://github.com/utkarshwrks/artmart) — Marketplace for artists to showcase & sell artwork with P2P & AI insights.
+- 🔹 [**Water Quality Prediction AI/ML**](https://github.com/utkarshwrks/water-quality-prediction) — ML model predicting water quality.
+- 🔹 [**Netflix Clone**](https://github.com/utkarshwrks/netflix-clone) — Beautiful Netflix UI replica with auth & data.
 
 ---
 
@@ -57,16 +57,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarsh-246&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarshwrks&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarsh-246&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshwrks&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 📫 Let's Connect
 <p>
-  <a href="https://www.linkedin.com/in/utkarsh-kushwaha-662679315/" target="_blank">
+  <a href="https://www.linkedin.com/in/utkarshwrks/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://x.com/utkarshk246" target="_blank">
