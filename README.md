@@ -1,4 +1,5 @@
-<h1 align="center">Namaste! I'm Utkarsh(Utk-code-crush) Kushwaha </h1>
+<h1 align="center">🙏 Namaste! I'm <span style="color:#f39c12;"><b>Utkarsh</b></span> (<i>Ut-code-crush</i>) Kushwaha 👋</h1>
+
 
 <p align="center">
 🚀 <b>Tech Enthusiast | Developer | Innovator | AI/ML Engineer</b><br/>
