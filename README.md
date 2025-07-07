@@ -1,4 +1,7 @@
-<h1 align="center">🙏 Namaste! I'm <span style="color:#f39c12;"><b>Utkarsh</b></span> (<i>Ut-code-crush</i>) Kushwaha 👋</h1>
+<h1 align="center">🙏 Namaste! I'm Utkarsh Kushwaha 👋</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Ut--code--crush-8e44ad?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 
 <p align="center">
