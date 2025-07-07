@@ -1,4 +1,4 @@
-<h1 align="center">🙏 Namaste! I'm Utkarsh (<i>Ut-code-crush</i>) Kushwaha 👋</h1>
+<h1 align="center"> Namaste! I'm Utkarsh (<i>Ut-code-crush</i>) Kushwaha 👋</h1>
 
 
 
