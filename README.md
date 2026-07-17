@@ -4,8 +4,9 @@
   Requires in this repo (utkarshwrks/utkarshwrks):
     · assets/hero.svg
     · assets/divider.svg
-    · assets/telemetry.svg
-  Search "TODO" before publishing — 2 repo names need confirming.
+    · assets/identity.svg
+  Repo links verified against utkarsh-kushwaha.vercel.app —
+  only OpenPulse & CivicChain still carry a TODO check.
   ──────────────────────────────────────────────────────────────
 -->
 
@@ -13,14 +14,15 @@
 
 <img src="assets/hero.svg" width="100%" alt="Utkarsh Kushwaha — AI and Backend Engineer. Software Engineer at Cybokrafts building production REST APIs, LLM and GenAI pipelines, and real-time data systems.">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2400&pause=700&color=818CF8&center=true&vCenter=true&width=680&lines=Software+Engineer+%40+Cybokrafts;REST+APIs+%C2%B7+Node.js+%C2%B7+Azure+SQL;LLM+%26+GenAI+pipelines+in+production;Real-time+energy-grid+telemetry;550%2B+DSA+problems+%C2%B7+4%C3%97+hackathon+podiums" alt="Typing animation — Software Engineer at Cybokrafts, REST APIs, LLM and GenAI pipelines, real-time telemetry">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2400&pause=700&color=818CF8&center=true&vCenter=true&width=680&lines=Hi%2C+I%27m+Utkarsh+%C2%B7+aka+ut-code-crush;Backend-first+full-stack+developer;AI+%2F+ML+where+it+truly+adds+value;GSSoC+%2725+contributor+%C2%B7+4%C3%97+hackathon+podiums;Night+owl+%C2%B7+fueled+by+chai+%E2%98%95" alt="Typing animation — Hi, I'm Utkarsh, aka ut-code-crush. Backend-first full-stack developer. AI/ML where it truly adds value. GSSoC '25 contributor, 4× hackathon podiums.">
 
 <br>
 
 <a href="https://utkarsh-kushwaha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>&nbsp;
 <a href="https://www.linkedin.com/in/utkarshwrks/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>&nbsp;
 <a href="mailto:utkarshkushwaha246@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>&nbsp;
-<a href="https://x.com/utkarshk246"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
+<a href="https://x.com/utkarshwrks"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>&nbsp;
+<a href="https://www.instagram.com/_.utkrashh._"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"></a>
 
 <br><br>
 
@@ -29,7 +31,7 @@
     <td align="center" width="220"><b>4×</b><br><sub>hackathon podiums,<br>incl. a national 1st 🥇</sub></td>
     <td align="center" width="220"><b>550+</b><br><sub>DSA problems solved<br>across LC · CF · CN</sub></td>
     <td align="center" width="220"><b>8+</b><br><sub>projects built & shipped —<br>all live in the cards below</sub></td>
-    <td align="center" width="220"><b>99.9%</b><br><sub>uptime on backend<br>services I've shipped</sub></td>
+    <td align="center" width="220"><b>29+</b><br><sub>tools in the stack,<br>always learning more</sub></td>
   </tr>
 </table>
 
@@ -52,43 +54,43 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/utkarshwrks/skillsync">
+      <a href="https://github.com/utkarshwrks/skillsync"><!-- if this card breaks, the repo may live at saymanlal/SkillSync -->
         <img src="https://opengraph.githubassets.com/1/utkarshwrks/skillsync" width="100%" alt="SkillSync — AI career platform with ATS + recruiter resume scoring in under 5 seconds. Django, DRF, Gemini.">
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/team-vasiliades/algovisualizer">
-        <img src="https://opengraph.githubassets.com/1/team-vasiliades/algovisualizer" width="100%" alt="AlgoVisualizer — algorithms brought to life through visualization. I engineered the backend.">
+      <a href="https://github.com/Team-Vasiliades/ALGOVisualizer">
+        <img src="https://opengraph.githubassets.com/1/Team-Vasiliades/ALGOVisualizer" width="100%" alt="AlgoVisualizer — live DSA visualizer with real-time WebSocket updates. I engineered the backend. 1st Runner-Up, Genethon.">
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/utkarshwrks/votex">
-        <img src="https://opengraph.githubassets.com/1/utkarshwrks/votex" width="100%" alt="Votex — secure online voting with authentication and dynamic elections.">
+      <a href="https://github.com/Team-Vasiliades/VoteX">
+        <img src="https://opengraph.githubassets.com/1/Team-Vasiliades/VoteX" width="100%" alt="VoteX — secure voting platform with OTP identity verification and role-based sessions. Top 10, BrahmaX.">
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/utkarshwrks/artmart">
-        <img src="https://opengraph.githubassets.com/1/utkarshwrks/artmart" width="100%" alt="ArtMart — artist marketplace with P2P sales and AI insights.">
+      <a href="https://github.com/utkarshwrks/ArtMart">
+        <img src="https://opengraph.githubassets.com/1/utkarshwrks/ArtMart" width="100%" alt="ArtMart — artist marketplace with curated gallery, payments and AI insights. Live on Render.">
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/utkarshwrks/water-quality-prediction">
-        <img src="https://opengraph.githubassets.com/1/utkarshwrks/water-quality-prediction" width="100%" alt="Water Quality AI — ML model predicting water quality at 92% accuracy.">
+      <a href="https://github.com/utkarshwrks/Water-Quality-Prediction">
+        <img src="https://opengraph.githubassets.com/1/utkarshwrks/Water-Quality-Prediction" width="100%" alt="Water Quality Prediction — ML model at 92% accuracy with API endpoint and dashboard.">
       </a>
     </td>
     <td width="50%">
-      <a href="https://github.com/utkarshwrks/netflix-clone">
-        <img src="https://opengraph.githubassets.com/1/utkarshwrks/netflix-clone" width="100%" alt="Netflix Clone — Netflix UI replica with auth and live data.">
+      <a href="https://github.com/utkarshwrks/MINICRM">
+        <img src="https://opengraph.githubassets.com/1/utkarshwrks/MINICRM" width="100%" alt="MiniCRM — lightweight MERN-stack CRM for managing customers, leads and interactions.">
       </a>
     </td>
   </tr>
 </table>
 
-<sub>🥇 <b>Prahari</b> — built for the SafeClick 2.0 national hackathon (MP Police) · won <b>1st place</b></sub>
+<sub>🥇 <b>Prahari</b> — built for the SafeClick 2.0 national hackathon (MP Police) · won <b>1st place</b> &nbsp;·&nbsp; 🔴 <b>Live:</b> <a href="https://algovisualizer.pythonanywhere.com/">AlgoVisualizer</a> · <a href="https://artmart-9t6q.onrender.com/">ArtMart</a></sub>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -99,13 +101,17 @@
 <br>
 
 <img src="https://img.shields.io/badge/SafeClick_2.0-%F0%9F%A5%87_National_1st-e3b341?style=for-the-badge&labelColor=0d1117" alt="1st place, national — SafeClick 2.0 Hackathon (MP Police), built Prahari">
-<img src="https://img.shields.io/badge/Genethon-%F0%9F%A5%88_1st_Runner--Up-c9d1d9?style=for-the-badge&labelColor=0d1117" alt="1st Runner-Up — Genethon, engineered the AlgoVisualizer backend, 2nd of 50+ teams">
+<img src="https://img.shields.io/badge/Genethon-%F0%9F%A5%88_1st_Runner--Up_·_%E2%82%B970K-c9d1d9?style=for-the-badge&labelColor=0d1117" alt="1st Runner-Up — Genethon, ₹70,000 prize, engineered the AlgoVisualizer backend, 2nd of 50+ teams">
 <img src="https://img.shields.io/badge/FOSS_Hack-%F0%9F%A5%89_2nd_Runner--Up_·_175%2B_teams-cd7f32?style=for-the-badge&labelColor=0d1117" alt="2nd Runner-Up — FOSS Hack Localhost, led the OpenPulse team past 175+ teams">
 <img src="https://img.shields.io/badge/Global_Buildathon_2026-%F0%9F%8F%86_Best_UI%2FUX-22d3ee?style=for-the-badge&labelColor=0d1117" alt="Best UI/UX — Global Buildathon 2026, OpenPulse 3D dependency visualization">
 
+<img src="https://img.shields.io/badge/GSSoC_2025-🌱_Open--Source_Contributor-3fb950?style=for-the-badge&labelColor=0d1117" alt="GirlScript Summer of Code 2025 — selected contributor, merged PRs across 2 repositories">
 <img src="https://img.shields.io/badge/Peers_Global-⭐_Top_50-818cf8?style=for-the-badge&labelColor=0d1117" alt="Top 50 — Peers Global, SkillSync">
-<img src="https://img.shields.io/badge/BrahmaX-⭐_Top_10-818cf8?style=for-the-badge&labelColor=0d1117" alt="Top 10 — BrahmaX, Votex">
+<img src="https://img.shields.io/badge/BrahmaX-⭐_Top_10-818cf8?style=for-the-badge&labelColor=0d1117" alt="Top 10 — BrahmaX, VoteX">
 <img src="https://img.shields.io/badge/CodeNakshatra-⭐_Top_10-818cf8?style=for-the-badge&labelColor=0d1117" alt="Top 10 — CodeNakshatra, ArtMart">
+
+<img src="https://img.shields.io/badge/AIALCHEMIST-Technical_Lead-818cf8?style=for-the-badge&labelColor=0d1117" alt="Technical Lead — AIALCHEMIST, student org for AI and web dev">
+<img src="https://img.shields.io/badge/HackWithIndia_GGITS-Campus_President_·_500%2B_students-22d3ee?style=for-the-badge&labelColor=0d1117" alt="Campus President — HackWithIndia GGITS, organizing hackathons for 500+ students">
 
 <br>
 
@@ -119,7 +125,7 @@
 <table>
   <tr>
     <td align="right"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,cpp,c,js" height="40" alt="Python, C++, C, JavaScript"></td>
+    <td><img src="https://skillicons.dev/icons?i=python,cpp,c,js,go" height="40" alt="Python, C++, C, JavaScript, Golang"></td>
   </tr>
   <tr>
     <td align="right"><b>Backend & APIs</b></td>
@@ -145,7 +151,9 @@
 
 **GenAI in production** &nbsp;·&nbsp; `Gemini (Vision + Text)` `Claude` `LLM Integration` `RAG & Vector Embeddings` `Prompt Engineering` `Azure Speech (STT/TTS)`
 
-**Foundations** &nbsp;·&nbsp; `DSA` `OOP` `DBMS` `REST` `JWT Auth` `SQL` `Twilio`
+**Certified** &nbsp;·&nbsp; `Oracle OCI '24` `Oracle GenAI Pro` `Oracle APEX Dev` `Cisco C++` `Cisco Python` `Red Hat Linux`
+
+**Foundations** &nbsp;·&nbsp; `DSA` `OOP` `DBMS` `REST` `JWT Auth` `SQL` `WebSockets` `Twilio`
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -155,7 +163,7 @@
 
 <br><br>
 
-<img src="assets/telemetry.svg" width="100%" alt="Animated energy-grid telemetry — data pulses streaming from solar, grid and EV nodes through an ingest API into a live dashboard. What I build at Cybokrafts.">
+<img src="assets/identity.svg" width="100%" alt="The human behind the commits — $ ut-code-crush. Backend-first builder, AI where it truly adds value. Fueled by chai, lofi on loop, night owl. Orbiting worlds: backend, AI/ML, open source, hackathons. Jabalpur · IST · open to opportunities.">
 
 <!--
   OPTIONAL — stats / languages / streak cards.
