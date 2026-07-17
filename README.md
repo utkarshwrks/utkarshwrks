@@ -4,7 +4,7 @@
   Requires in this repo (utkarshwrks/utkarshwrks):
     · assets/hero.svg
     · assets/divider.svg
-    · .github/workflows/snake.yml   (snake animation)
+    · assets/telemetry.svg
   Search "TODO" before publishing — 2 repo names need confirming.
   ──────────────────────────────────────────────────────────────
 -->
@@ -39,50 +39,50 @@
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/utkarshwrks/openpulse"><!-- TODO: confirm repo name -->
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshwrks&repo=openpulse&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=7d8590&hide_border=true" alt="OpenPulse — 3D dependency-risk visualizer. Next.js, Three.js, FastAPI. 60 FPS on 1,000+ node graphs.">
+        <img src="https://opengraph.githubassets.com/1/utkarshwrks/openpulse" width="100%" alt="OpenPulse — 3D dependency-risk visualizer. Next.js, Three.js, FastAPI. 60 FPS on 1,000+ node graphs.">
       </a>
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/utkarshwrks/civicchain"><!-- TODO: confirm repo name -->
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshwrks&repo=civicchain&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=7d8590&hide_border=true" alt="CivicChain — AI-verified, tamper-proof civic reporting. Gemini Vision, blockchain, IPFS. 90% less spam.">
+        <img src="https://opengraph.githubassets.com/1/utkarshwrks/civicchain" width="100%" alt="CivicChain — AI-verified, tamper-proof civic reporting. Gemini Vision, blockchain, IPFS. 90% less spam.">
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/utkarshwrks/skillsync">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshwrks&repo=skillsync&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=7d8590&hide_border=true" alt="SkillSync — AI career platform with ATS + recruiter resume scoring in under 5 seconds. Django, DRF, Gemini.">
+        <img src="https://opengraph.githubassets.com/1/utkarshwrks/skillsync" width="100%" alt="SkillSync — AI career platform with ATS + recruiter resume scoring in under 5 seconds. Django, DRF, Gemini.">
       </a>
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/team-vasiliades/algovisualizer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=team-vasiliades&repo=algovisualizer&show_owner=true&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=7d8590&hide_border=true" alt="AlgoVisualizer — algorithms brought to life through visualization. I engineered the backend.">
+        <img src="https://opengraph.githubassets.com/1/team-vasiliades/algovisualizer" width="100%" alt="AlgoVisualizer — algorithms brought to life through visualization. I engineered the backend.">
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/utkarshwrks/votex">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshwrks&repo=votex&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=7d8590&hide_border=true" alt="Votex — secure online voting with authentication and dynamic elections.">
+        <img src="https://opengraph.githubassets.com/1/utkarshwrks/votex" width="100%" alt="Votex — secure online voting with authentication and dynamic elections.">
       </a>
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/utkarshwrks/artmart">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshwrks&repo=artmart&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=7d8590&hide_border=true" alt="ArtMart — artist marketplace with P2P sales and AI insights.">
+        <img src="https://opengraph.githubassets.com/1/utkarshwrks/artmart" width="100%" alt="ArtMart — artist marketplace with P2P sales and AI insights.">
       </a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/utkarshwrks/water-quality-prediction">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshwrks&repo=water-quality-prediction&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=7d8590&hide_border=true" alt="Water Quality AI — ML model predicting water quality at 92% accuracy.">
+        <img src="https://opengraph.githubassets.com/1/utkarshwrks/water-quality-prediction" width="100%" alt="Water Quality AI — ML model predicting water quality at 92% accuracy.">
       </a>
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/utkarshwrks/netflix-clone">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshwrks&repo=netflix-clone&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=7d8590&hide_border=true" alt="Netflix Clone — Netflix UI replica with auth and live data.">
+        <img src="https://opengraph.githubassets.com/1/utkarshwrks/netflix-clone" width="100%" alt="Netflix Clone — Netflix UI replica with auth and live data.">
       </a>
     </td>
   </tr>
@@ -151,33 +151,26 @@
 
 ## Analytics
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=utkarshwrks&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&rank_icon=github">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshwrks&show_icons=true&hide_border=true&theme=default&bg_color=00000000&rank_icon=github" alt="GitHub stats for utkarshwrks" height="170">
-</picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshwrks&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=00000000">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshwrks&layout=compact&langs_count=8&hide_border=true&theme=default&bg_color=00000000" alt="Most used languages for utkarshwrks" height="170">
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=utkarshwrks&hide_border=true&theme=dark&background=00000000">
-  <img src="https://streak-stats.demolab.com?user=utkarshwrks&hide_border=true&background=00000000" alt="GitHub contribution streak for utkarshwrks" height="170">
-</picture>
-
-<br><br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshwrks&bg_color=0d1117&color=7d8590&line=818cf8&point=22d3ee&area=true&area_color=161b22&hide_border=true" width="96%" alt="Contribution activity graph for utkarshwrks">
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarshwrks/utkarshwrks/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/utkarshwrks/utkarshwrks/output/github-snake.svg" alt="Snake game eating my contribution graph">
-</picture>
-<!-- ↑ generated by .github/workflows/snake.yml — runs automatically on your first push -->
+<img src="assets/telemetry.svg" width="100%" alt="Animated energy-grid telemetry — data pulses streaming from solar, grid and EV nodes through an ingest API into a live dashboard. What I build at Cybokrafts.">
+
+<!--
+  OPTIONAL — stats / languages / streak cards.
+  The public servers for these (github-readme-stats.vercel.app, streak-stats.demolab.com)
+  keep going down in 2026, which breaks the images. To use them reliably, deploy your own
+  free copy on YOUR Vercel account:
+    1. Open  https://vercel.com/new/clone?repository-url=https://github.com/anuraghazra/github-readme-stats
+    2. Deploy, then in Vercel → Project → Settings → Environment Variables add:
+       PAT_1 = a GitHub personal access token (no special scopes needed)
+    3. Replace YOUR-DOMAIN below with your new deployment's domain and uncomment.
+
+<br><br>
+<img src="https://YOUR-DOMAIN.vercel.app/api?username=utkarshwrks&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&rank_icon=github" alt="GitHub stats" height="170">
+<img src="https://YOUR-DOMAIN.vercel.app/api/top-langs/?username=utkarshwrks&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=00000000" alt="Top languages" height="170">
+-->
 
 <br><br>
 
