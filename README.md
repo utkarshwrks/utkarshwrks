@@ -54,7 +54,7 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/utkarshwrks/skillsync"><!-- if this card breaks, the repo may live at saymanlal/SkillSync -->
+      <a href="https://github.com/saymanlal/skillsync"><!-- if this card breaks, the repo may live at saymanlal/SkillSync -->
         <img src="https://opengraph.githubassets.com/1/utkarshwrks/skillsync" width="100%" alt="SkillSync — AI career platform with ATS + recruiter resume scoring in under 5 seconds. Django, DRF, Gemini.">
       </a>
     </td>
