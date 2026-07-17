@@ -41,56 +41,74 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/utkarshwrks/openpulse"><!-- TODO: confirm repo name -->
-        <img src="https://opengraph.githubassets.com/1/utkarshwrks/openpulse" width="100%" alt="OpenPulse — 3D dependency-risk visualizer. Next.js, Three.js, FastAPI. 60 FPS on 1,000+ node graphs.">
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/utkarshwrks/openpulse">🕸️ OpenPulse</a></h3><!-- TODO: confirm repo name -->
+      <p align="center"><sub>🥉 2nd Runner-Up · FOSS Hack &nbsp;·&nbsp; 🏆 Best UI/UX · Global Buildathon 2026</sub></p>
+      <p>A 3D dependency-risk visualizer — parses manifests across 10+ package ecosystems and renders 1,000+-node graphs at 60 FPS, with a built-in risk-scoring engine.</p>
+      <p><code>Next.js</code> <code>Three.js</code> <code>FastAPI</code> <code>SQLite</code></p>
+      <a href="https://github.com/utkarshwrks/openpulse"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=white" alt="Source code"></a>
     </td>
-    <td width="50%">
-      <a href="https://github.com/utkarshwrks/civicchain"><!-- TODO: confirm repo name -->
-        <img src="https://opengraph.githubassets.com/1/utkarshwrks/civicchain" width="100%" alt="CivicChain — AI-verified, tamper-proof civic reporting. Gemini Vision, blockchain, IPFS. 90% less spam.">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/saymanlal/skillsync"><!-- if this card breaks, the repo may live at saymanlal/SkillSync -->
-        <img src="https://opengraph.githubassets.com/1/utkarshwrks/skillsync" width="100%" alt="SkillSync — AI career platform with ATS + recruiter resume scoring in under 5 seconds. Django, DRF, Gemini.">
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Team-Vasiliades/ALGOVisualizer">
-        <img src="https://opengraph.githubassets.com/1/Team-Vasiliades/ALGOVisualizer" width="100%" alt="AlgoVisualizer — live DSA visualizer with real-time WebSocket updates. I engineered the backend. 1st Runner-Up, Genethon.">
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/utkarshwrks/civicchain">🏛️ CivicChain</a></h3><!-- TODO: confirm repo name -->
+      <p align="center"><sub>⛓️ On-chain evidence · shipped as an Android APK</sub></p>
+      <p>Decentralized civic reporting — Gemini Vision verifies every report, and on-chain + IPFS storage makes evidence tamper-proof. 90% fewer duplicate/spam reports; ships as an Android APK.</p>
+      <p><code>Node.js</code> <code>Express</code> <code>Gemini Vision</code> <code>IPFS</code> <code>Blockchain</code></p>
+      <a href="https://github.com/utkarshwrks/civicchain"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=white" alt="Source code"></a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/Team-Vasiliades/VoteX">
-        <img src="https://opengraph.githubassets.com/1/Team-Vasiliades/VoteX" width="100%" alt="VoteX — secure voting platform with OTP identity verification and role-based sessions. Top 10, BrahmaX.">
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/utkarshwrks/skillsync">🎯 SkillSync</a></h3><!-- if this link breaks, the repo may live at saymanlal/SkillSync -->
+      <p align="center"><sub>⭐ Top 50 · Peers Global</sub></p>
+      <p>AI career platform that scores resumes through ATS and recruiter lenses in under 5 seconds, with live listings aggregated from 5+ job boards.</p>
+      <p><code>Django</code> <code>DRF</code> <code>React</code> <code>PostgreSQL</code> <code>Gemini</code></p>
+      <a href="https://github.com/utkarshwrks/skillsync"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=white" alt="Source code"></a>
     </td>
-    <td width="50%">
-      <a href="https://github.com/utkarshwrks/ArtMart">
-        <img src="https://opengraph.githubassets.com/1/utkarshwrks/ArtMart" width="100%" alt="ArtMart — artist marketplace with curated gallery, payments and AI insights. Live on Render.">
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Team-Vasiliades/ALGOVisualizer">🧮 AlgoVisualizer</a></h3>
+      <p align="center"><sub>🥈 1st Runner-Up · Genethon (₹70K prize)</sub></p>
+      <p>Interactive DSA visualizer with step-by-step animations and low-latency WebSocket sync — I engineered the backend and real-time systems.</p>
+      <p><code>Django</code> <code>React</code> <code>WebSocket</code> <code>MySQL</code></p>
+      <a href="https://github.com/Team-Vasiliades/ALGOVisualizer"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=white" alt="Source code"></a>&nbsp;
+      <a href="https://algovisualizer.pythonanywhere.com/"><img src="https://img.shields.io/badge/%F0%9F%94%B4_Live-0d1117?style=flat-square" alt="Live demo"></a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <a href="https://github.com/utkarshwrks/Water-Quality-Prediction">
-        <img src="https://opengraph.githubassets.com/1/utkarshwrks/Water-Quality-Prediction" width="100%" alt="Water Quality Prediction — ML model at 92% accuracy with API endpoint and dashboard.">
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Team-Vasiliades/VoteX">🗳️ VoteX</a></h3>
+      <p align="center"><sub>⭐ Top 10 · BrahmaX</sub></p>
+      <p>Secure voting platform for small-to-medium elections — OTP identity verification, role-based sessions, and an admin panel for election setup.</p>
+      <p><code>Next.js</code> <code>Firebase</code> <code>Node.js</code> <code>Blockchain</code></p>
+      <a href="https://github.com/Team-Vasiliades/VoteX"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=white" alt="Source code"></a>
     </td>
-    <td width="50%">
-      <a href="https://github.com/utkarshwrks/MINICRM">
-        <img src="https://opengraph.githubassets.com/1/utkarshwrks/MINICRM" width="100%" alt="MiniCRM — lightweight MERN-stack CRM for managing customers, leads and interactions.">
-      </a>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/utkarshwrks/ArtMart">🎨 ArtMart</a></h3>
+      <p align="center"><sub>⭐ Top 10 · CodeNakshatra</sub></p>
+      <p>Marketplace for artists — curated gallery, artist dashboards and a secure payment flow, built to extend with P2P and AI-assisted features.</p>
+      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Django</code></p>
+      <a href="https://github.com/utkarshwrks/ArtMart"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=white" alt="Source code"></a>&nbsp;
+      <a href="https://artmart-9t6q.onrender.com/"><img src="https://img.shields.io/badge/%F0%9F%94%B4_Live-0d1117?style=flat-square" alt="Live demo"></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/utkarshwrks/Water-Quality-Prediction">💧 Water Quality Prediction</a></h3>
+      <p align="center"><sub>🎓 Built during the Edunet Foundation AI/ML internship</sub></p>
+      <p>ML system predicting water quality at 92% accuracy, served through an API endpoint with a visualization dashboard.</p>
+      <p><code>Python</code> <code>Flask</code> <code>scikit-learn</code></p>
+      <a href="https://github.com/utkarshwrks/Water-Quality-Prediction"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=white" alt="Source code"></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/utkarshwrks/MINICRM">📇 MiniCRM</a></h3>
+      <p align="center"><sub>🧰 MERN practice build</sub></p>
+      <p>Lightweight MERN-stack CRM for managing customers, leads and interactions.</p>
+      <p><code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code></p>
+      <a href="https://github.com/utkarshwrks/MINICRM"><img src="https://img.shields.io/badge/Code-0d1117?style=flat-square&logo=github&logoColor=white" alt="Source code"></a>
     </td>
   </tr>
 </table>
 
-<sub>🥇 <b>Prahari</b> — built for the SafeClick 2.0 national hackathon (MP Police) · won <b>1st place</b> &nbsp;·&nbsp; 🔴 <b>Live:</b> <a href="https://algovisualizer.pythonanywhere.com/">AlgoVisualizer</a> · <a href="https://artmart-9t6q.onrender.com/">ArtMart</a></sub>
+<sub>🥇 <b>Prahari</b> — built for the SafeClick 2.0 national hackathon (MP Police) · won <b>1st place</b></sub>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
