@@ -1,23 +1,24 @@
 <!--
-  ─────────────────────────────────────────────────────────────
-  Utkarsh Kushwaha · github.com/utkarshwrks — hand-built profile
-  Requires: assets/hero.svg committed to this repo (utkarshwrks/utkarshwrks)
-  Search for "TODO" before publishing — a few links need confirming.
-  ─────────────────────────────────────────────────────────────
+  ──────────────────────────────────────────────────────────────
+  Utkarsh Kushwaha · github.com/utkarshwrks — visual edition
+  Requires in this repo (utkarshwrks/utkarshwrks):
+    · assets/hero.svg
+    · assets/divider.svg
+    · .github/workflows/snake.yml   (snake animation)
+  Search "TODO" before publishing — 2 repo names need confirming.
+  ──────────────────────────────────────────────────────────────
 -->
 
 <div align="center">
 
 <img src="assets/hero.svg" width="100%" alt="Utkarsh Kushwaha — AI and Backend Engineer. Software Engineer at Cybokrafts building production REST APIs, LLM and GenAI pipelines, and real-time data systems.">
 
-<br><br>
-
-*I turn live data into intelligent, reliable systems — from energy-grid telemetry to LLM pipelines.*
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2400&pause=700&color=818CF8&center=true&vCenter=true&width=680&lines=Software+Engineer+%40+Cybokrafts;REST+APIs+%C2%B7+Node.js+%C2%B7+Azure+SQL;LLM+%26+GenAI+pipelines+in+production;Real-time+energy-grid+telemetry;550%2B+DSA+problems+%C2%B7+4%C3%97+hackathon+podiums" alt="Typing animation — Software Engineer at Cybokrafts, REST APIs, LLM and GenAI pipelines, real-time telemetry">
 
 <br>
 
 <a href="https://utkarsh-kushwaha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>&nbsp;
-<a href="https://www.linkedin.com/in/utkarshwrks/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>&nbsp;
+<a href="https://www.linkedin.com/in/utkarshwrks/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>&nbsp;
 <a href="mailto:utkarshkushwaha246@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>&nbsp;
 <a href="https://x.com/utkarshk246"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
 
@@ -27,128 +28,93 @@
   <tr>
     <td align="center" width="220"><b>4×</b><br><sub>hackathon podiums,<br>incl. a national 1st 🥇</sub></td>
     <td align="center" width="220"><b>550+</b><br><sub>DSA problems solved<br>across LC · CF · CN</sub></td>
-    <td align="center" width="220"><b>1,000+</b><br><sub>live payment transactions<br>processed in production</sub></td>
+    <td align="center" width="220"><b>8+</b><br><sub>projects built & shipped —<br>all live in the cards below</sub></td>
     <td align="center" width="220"><b>99.9%</b><br><sub>uptime on backend<br>services I've shipped</sub></td>
   </tr>
 </table>
 
-</div>
+<img src="assets/divider.svg" width="100%" alt="">
+
+## Builds
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/utkarshwrks/openpulse"><!-- TODO: confirm repo name -->
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshwrks&repo=openpulse&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=7d8590&hide_border=true" alt="OpenPulse — 3D dependency-risk visualizer. Next.js, Three.js, FastAPI. 60 FPS on 1,000+ node graphs.">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/utkarshwrks/civicchain"><!-- TODO: confirm repo name -->
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshwrks&repo=civicchain&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=7d8590&hide_border=true" alt="CivicChain — AI-verified, tamper-proof civic reporting. Gemini Vision, blockchain, IPFS. 90% less spam.">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/utkarshwrks/skillsync">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshwrks&repo=skillsync&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=7d8590&hide_border=true" alt="SkillSync — AI career platform with ATS + recruiter resume scoring in under 5 seconds. Django, DRF, Gemini.">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/team-vasiliades/algovisualizer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=team-vasiliades&repo=algovisualizer&show_owner=true&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=7d8590&hide_border=true" alt="AlgoVisualizer — algorithms brought to life through visualization. I engineered the backend.">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/utkarshwrks/votex">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshwrks&repo=votex&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=7d8590&hide_border=true" alt="Votex — secure online voting with authentication and dynamic elections.">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/utkarshwrks/artmart">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshwrks&repo=artmart&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=7d8590&hide_border=true" alt="ArtMart — artist marketplace with P2P sales and AI insights.">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/utkarshwrks/water-quality-prediction">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshwrks&repo=water-quality-prediction&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=7d8590&hide_border=true" alt="Water Quality AI — ML model predicting water quality at 92% accuracy.">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/utkarshwrks/netflix-clone">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=utkarshwrks&repo=netflix-clone&bg_color=00000000&title_color=818cf8&icon_color=22d3ee&text_color=7d8590&hide_border=true" alt="Netflix Clone — Netflix UI replica with auth and live data.">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<sub>🥇 <b>Prahari</b> — built for the SafeClick 2.0 national hackathon (MP Police) · won <b>1st place</b></sub>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## Wins
+
+<img src="https://github-profile-trophy.vercel.app/?username=utkarshwrks&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies for utkarshwrks" width="100%">
 
 <br>
 
-## About
+<img src="https://img.shields.io/badge/SafeClick_2.0-%F0%9F%A5%87_National_1st-e3b341?style=for-the-badge&labelColor=0d1117" alt="1st place, national — SafeClick 2.0 Hackathon (MP Police), built Prahari">
+<img src="https://img.shields.io/badge/Genethon-%F0%9F%A5%88_1st_Runner--Up-c9d1d9?style=for-the-badge&labelColor=0d1117" alt="1st Runner-Up — Genethon, engineered the AlgoVisualizer backend, 2nd of 50+ teams">
+<img src="https://img.shields.io/badge/FOSS_Hack-%F0%9F%A5%89_2nd_Runner--Up_·_175%2B_teams-cd7f32?style=for-the-badge&labelColor=0d1117" alt="2nd Runner-Up — FOSS Hack Localhost, led the OpenPulse team past 175+ teams">
+<img src="https://img.shields.io/badge/Global_Buildathon_2026-%F0%9F%8F%86_Best_UI%2FUX-22d3ee?style=for-the-badge&labelColor=0d1117" alt="Best UI/UX — Global Buildathon 2026, OpenPulse 3D dependency visualization">
 
-I'm a CS (AI & ML) undergrad at RGPV — Class of '28 — who treats shipping as a habit, not an event.
-
-By day I'm a **Software Engineer at Cybokrafts**, building the ingestion and API layer that streams live sensor telemetry from transformers, solar farms and EV networks into dashboards that businesses and government teams actually rely on. Before that: payment infrastructure processing 1,000+ real transactions at Nuvance, and a 92%-accuracy ML model as an AI intern with the Edunet Foundation.
-
-Nights and weekends go to hackathons — four podium finishes so far, including a **national 1st place** — and to competitive programming, where I've ground through **550+ problems** on LeetCode and Codeforces.
-
-What I care about: backends that stay up, latency that stays down, and AI that does real work instead of demos.
-
-<br>
-
-## Featured Work
-
-### OpenPulse — see your dependency risk in 3D
-
-`Next.js` `Three.js` `FastAPI` `SQLite` `GitHub API`<br>
-<sub>🏅 2nd Runner-Up · FOSS Hack [Localhost], 175+ teams &nbsp;·&nbsp; 🏅 Best UI/UX · Global Buildathon 2026</sub>
-
-**The problem** — a modern repo quietly pulls in thousands of transitive dependencies. The risky ones hide ten levels deep, where no `package.json` skim will ever find them.
-
-**What I built** — a visualizer that parses manifests across **10+ ecosystems** (npm, pip, Go, Rust…), maps **1,000+ dependencies per repo**, and renders the entire graph as an interactive 3D scene you can actually explore.
-
-- Sustains **60 FPS on 1,000+-node graphs** with a `THREE.InstancedMesh` rendering pipeline
-- Risk-scoring engine (graph centrality × maintainer activity) — **60% better detection** of risky packages
-- Repo Intelligence panel that turns raw graph data into decisions, not just pictures
-
-<a href="https://github.com/utkarshwrks/openpulse"><b>Repo →</b></a> <!-- TODO: confirm repo URL -->
+<img src="https://img.shields.io/badge/Peers_Global-⭐_Top_50-818cf8?style=for-the-badge&labelColor=0d1117" alt="Top 50 — Peers Global, SkillSync">
+<img src="https://img.shields.io/badge/BrahmaX-⭐_Top_10-818cf8?style=for-the-badge&labelColor=0d1117" alt="Top 10 — BrahmaX, Votex">
+<img src="https://img.shields.io/badge/CodeNakshatra-⭐_Top_10-818cf8?style=for-the-badge&labelColor=0d1117" alt="Top 10 — CodeNakshatra, ArtMart">
 
 <br>
 
-### CivicChain — civic reports that can't be faked or ignored
+<a href="https://leetcode.com/u/utkarsh-246/"><img src="https://img.shields.io/badge/LeetCode-1653_peak_·_550%2B_solved-FFA116?style=for-the-badge&labelColor=0d1117&logo=leetcode&logoColor=FFA116" alt="LeetCode — peak rating 1653, 550+ problems solved"></a>&nbsp;
+<a href="https://codeforces.com/profile/utkarsh246"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dutkarsh246&logo=codeforces&logoColor=white&color=1F8ACB&cacheSeconds=86400&labelColor=0d1117" alt="Codeforces rating for utkarsh246 (live)"></a>
 
-`Node.js` `Express` `React` `Gemini Vision` `IPFS` `Blockchain` `Capacitor`
-
-**The problem** — civic complaints die in silos: unverifiable, endlessly duplicated, easy for anyone to dismiss.
-
-**What I built** — a decentralized reporting platform where every report is AI-verified on the way in and tamper-proof once recorded.
-
-- Gemini Vision fraud pipeline with SHA-256 dedup gates — **90% fewer duplicate/spam reports**
-- User-signed **secp256k1 on-chain transactions** + IPFS pinning — **100% tamper-proof evidence**
-- Wallet-based JWT auth, 4-role RBAC, an `OPEN → VERIFIED → RESOLVED` workflow — shipped as an **Android APK** via Capacitor
-
-<a href="https://github.com/utkarshwrks/civicchain"><b>Repo →</b></a> <!-- TODO: confirm repo URL -->
-
-<br>
-
-### SkillSync — an AI career platform that reads resumes like the other side does
-
-`Django` `DRF` `React` `PostgreSQL` `Gemini` `Tailwind CSS`<br>
-<sub>🏅 Top 50 · Peers Global</sub>
-
-**The problem** — candidates guess at what ATS bots and recruiters want; job hunting becomes spray-and-pray.
-
-**What I built** — a platform that scores your resume through **both lenses at once** and pairs it with a live view of the market.
-
-- Dual-lens **ATS + recruiter scoring** on a Django REST backend — full AI feedback in **under 5 seconds**
-- Live listings aggregated from **5+ job boards** with content-hash caching — **40% fewer redundant API calls**
-- Market intelligence across **100+ skills**: demand & salary trends, "one-skill-away" matching, an outcome funnel
-
-<a href="https://github.com/utkarshwrks/skillsync"><b>Repo →</b></a>
-
-<br>
-
-#### More builds
-
-| Project | What it is | Recognition |
-|---|---|---|
-| [**Votex**](https://github.com/utkarshwrks/votex) | Secure online voting with authentication & dynamic elections | Top 10 · BrahmaX |
-| [**ArtMart**](https://github.com/utkarshwrks/artmart) | Artist marketplace with P2P sales & AI insights | Top 10 · CodeNakshatra |
-| [**AlgoVisualizer**](https://github.com/team-vasiliades/algovisualizer) | Algorithms brought to life through visualization — I built the backend | 1st Runner-Up · Genethon |
-| [**Water Quality AI**](https://github.com/utkarshwrks/water-quality-prediction) | ML model predicting water quality at 92% accuracy | Edunet internship |
-| **Prahari** | Cyber-safety build for the MP Police national hackathon | 🥇 1st · SafeClick 2.0 |
-
-<br>
-
-## Experience
-
-**Software Engineer** · Cybokrafts Universal Innovations — *AI-powered energy infrastructure*<br>
-<sub>Dec 2025 – Present · Hybrid</sub>
-- Built the ingestion layer streaming live sensor telemetry (transformers, solar, EV networks) into B2B / B2G dashboards
-- Shipped real-time REST APIs on **Node.js + Azure SQL**, cutting query latency under high-frequency polling
-
-**Backend Developer** · Nuvance Technologies<br>
-<sub>Nov 2025 – Dec 2025 · Remote</sub>
-- Engineered RESTful services holding **99.9% uptime** across distributed, high-availability infrastructure
-- Integrated **Razorpay** payments + shipment tracking with secure, real-time order sync — **1,000+ transactions** processed
-
-**AI & Machine Learning Intern** · Edunet Foundation — SHEEL<br>
-<sub>Jun 2025 – Jul 2025 · Remote</sub>
-- Trained a water-quality prediction model to **92% accuracy**, benchmarked across 5+ algorithms (Python, scikit-learn)
-- Automated preprocessing & feature engineering, cutting manual effort by **40%**
-
-<sub>🎓 **B.Tech, CSE (AI & ML)** · Rajiv Gandhi Proudyogiki Vishwavidyalaya · 2024 – 2028</sub>
-
-<br>
-
-## Achievements
-
-| | Result | Detail |
-|:-:|---|---|
-| 🥇 | **1st place — National** · SafeClick 2.0 Hackathon (MP Police) | Built **Prahari** |
-| 🥈 | 1st Runner-Up · Genethon | Engineered the backend of **AlgoVisualizer** — 2nd of 50+ teams |
-| 🥉 | 2nd Runner-Up · FOSS Hack [Localhost] | Led the team behind **OpenPulse** past **175+ teams** |
-| 🏆 | Best UI/UX · Global Buildathon 2026 | **OpenPulse**'s interactive 3D dependency visualization |
-| ⭐ | Top 50 · Peers Global — Top 10 · BrahmaX — Top 10 · CodeNakshatra | **SkillSync** · **Votex** · **ArtMart** |
-| 🎯 | **550+ problems** · LeetCode peak **1653** · Codeforces peak **950** | LeetCode, Codeforces & Coding Ninjas |
-
-<br>
+<img src="assets/divider.svg" width="100%" alt="">
 
 ## Stack
-
-<div align="center">
 
 <table>
   <tr>
@@ -181,39 +147,9 @@ What I care about: backends that stay up, latency that stays down, and AI that d
 
 **Foundations** &nbsp;·&nbsp; `DSA` `OOP` `DBMS` `REST` `JWT Auth` `SQL` `Twilio`
 
-</div>
+<img src="assets/divider.svg" width="100%" alt="">
 
-<br>
-
-## Competitive Programming
-
-<div align="center">
-
-<a href="https://leetcode.com/u/utkarsh-246/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/utkarsh-246?theme=dark&ext=heatmap">
-    <img src="https://leetcard.jacoblin.cool/utkarsh-246?theme=light&ext=heatmap" alt="LeetCode stats for utkarsh-246 — live rating, solved count and heatmap" width="480">
-  </picture>
-</a>
-
-<br><br>
-
-<a href="https://leetcode.com/u/utkarsh-246/"><img src="https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode profile"></a>&nbsp;
-<a href="https://codeforces.com/profile/utkarsh246"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Codeforces&query=%24.result%5B0%5D.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3Dutkarsh246&logo=codeforces&logoColor=white&color=1F8ACB&cacheSeconds=86400" alt="Codeforces rating for utkarsh246 (live)"></a>
-
-<!-- TODO — add when handles are ready:
-<a href="https://www.codechef.com/users/YOUR_HANDLE"><img src="https://img.shields.io/badge/CodeChef-0d1117?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
-<a href="https://www.hackerrank.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/HackerRank-0d1117?style=for-the-badge&logo=hackerrank&logoColor=2EC866" alt="HackerRank"></a>
-<a href="https://www.geeksforgeeks.org/user/YOUR_HANDLE/"><img src="https://img.shields.io/badge/GeeksforGeeks-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" alt="GeeksforGeeks"></a>
--->
-
-</div>
-
-<br>
-
-## GitHub Analytics
-
-<div align="center">
+## Analytics
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=utkarshwrks&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000&rank_icon=github">
@@ -231,43 +167,24 @@ What I care about: backends that stay up, latency that stays down, and AI that d
   <img src="https://streak-stats.demolab.com?user=utkarshwrks&hide_border=true&background=00000000" alt="GitHub contribution streak for utkarshwrks" height="170">
 </picture>
 
-<!-- Contribution snake — uncomment after adding .github/workflows/snake.yml (Platane/snk, see PROFILE-GUIDE.md §5):
 <br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshwrks&bg_color=0d1117&color=7d8590&line=818cf8&point=22d3ee&area=true&area_color=161b22&hide_border=true" width="96%" alt="Contribution activity graph for utkarshwrks">
+
+<br><br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/utkarshwrks/utkarshwrks/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/utkarshwrks/utkarshwrks/output/github-snake.svg" alt="Contribution graph snake animation">
+  <img src="https://raw.githubusercontent.com/utkarshwrks/utkarshwrks/output/github-snake.svg" alt="Snake game eating my contribution graph">
 </picture>
--->
-
-</div>
-
-<br>
-
-## Now
-
-**Building** — real-time energy-grid intelligence at Cybokrafts, one ingestion pipeline at a time<br>
-**Learning** — system design at depth, RAG evaluation, and agentic LLM pipelines<br>
-**Targeting** — first merged PRs into a major open-source project · Codeforces past Pupil · OpenPulse v2 <!-- TODO: make these targets yours — edit freely -->
-
-<br>
-
-## Connect
-
-<div align="center">
-
-The fastest ways to reach me — I actually reply.
-
-<br>
-
-<a href="https://www.linkedin.com/in/utkarshwrks/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"></a>&nbsp;
-<a href="mailto:utkarshkushwaha246@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"></a>&nbsp;
-<a href="https://x.com/utkarshk246"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>&nbsp;
-<a href="https://utkarsh-kushwaha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<!-- ↑ generated by .github/workflows/snake.yml — runs automatically on your first push -->
 
 <br><br>
 
-<sub><b>utkarshwrks</b> · designed & written by hand — markdown, one SVG, zero templates</sub>
+<sub><b>utkarshwrks</b> · designed & built by hand — markdown, hand-coded SVGs, zero templates</sub>
 
 <sub><img src="https://komarev.com/ghpvc/?username=utkarshwrks&style=flat-square&color=30363d&label=visits" alt="Profile visits"></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:818cf8,100:22d3ee&section=footer" width="100%" alt="">
 
 </div>
