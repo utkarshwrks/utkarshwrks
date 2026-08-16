@@ -5,7 +5,7 @@
     · assets/hero.svg
     · assets/divider.svg
     · assets/identity.svg
-    · assets/spray.svg
+    · assets/copyforward.svg
   Repo links verified against utkarsh-kushwaha.vercel.app —
   only OpenPulse & CivicChain still carry a TODO check.
   ──────────────────────────────────────────────────────────────
@@ -178,7 +178,7 @@
 
 ## Momentum
 
-<img src="assets/spray.svg" width="100%" alt="Animated GitHub contribution graph filling in cell by cell, spray-painted in by a moving paint can, from August through July">
+<img src="assets/copyforward.svg" width="100%" alt="Animated GitHub contribution graph: green blocks from past weeks are selected, cut, and pasted forward to fill the upcoming weeks">
 
 <img src="assets/divider.svg" width="100%" alt="">
 
