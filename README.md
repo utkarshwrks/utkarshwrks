@@ -5,6 +5,7 @@
     · assets/hero.svg
     · assets/divider.svg
     · assets/identity.svg
+    · assets/spray.svg
   Repo links verified against utkarsh-kushwaha.vercel.app —
   only OpenPulse & CivicChain still carry a TODO check.
   ──────────────────────────────────────────────────────────────
@@ -172,6 +173,12 @@
 **Certified** &nbsp;·&nbsp; `Oracle OCI '24` `Oracle GenAI Pro` `Oracle APEX Dev` `Cisco C++` `Cisco Python` `Red Hat Linux`
 
 **Foundations** &nbsp;·&nbsp; `DSA` `OOP` `DBMS` `REST` `JWT Auth` `SQL` `WebSockets` `Twilio`
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## Momentum
+
+<img src="assets/spray.svg" width="100%" alt="Animated GitHub contribution graph filling in cell by cell, spray-painted in by a moving paint can, from August through July">
 
 <img src="assets/divider.svg" width="100%" alt="">
 
